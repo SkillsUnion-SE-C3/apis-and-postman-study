@@ -1,15 +1,20 @@
 [<img src="assets/images/su-logo.png" alt="Skills Union Logo" height="80px" />](https://www.skillsunion.com/)
-# Lorem ipsum: Study
+
+# API's & Postman: Study
 
 ## Learning Objectives
 
 By the end of this, you should know:
 
-- Lorem ipsum dolor sit amet
+- Know how Internet/HTTP works
+- Know what is an HTTP Request & Response
+- Know differences between the different HTTP Verbs
 
 By the end of this, you should be able to:
 
-- Lorem ipsum dolor sit amet
+- Explain how HTTP works.
+- Describe what information is required to send a HTTP Request.
+- Describe the expected actions to be performed by various HTTP Verbs.
 
 ## Instructions
 
