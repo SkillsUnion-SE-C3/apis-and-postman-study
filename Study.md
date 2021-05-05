@@ -42,6 +42,14 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
    DELETE: // Write your answer here
    ```
 
+---
+
+## Create a Postman Account
+
+Create an account at https://www.postman.com/ (skip team creation step)
+
+---
+
 ### Response Guidelines
 
 Please follow these guidelines as you answers these questions:
