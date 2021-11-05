@@ -20,26 +20,32 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 1. Describe how HTTP works?
 
    ```
-   Please write your answer here.
+   HTTP is communication between web browsers and web servers. It works by an client opening a request connection and waiting for a response. 
+   The client and servers sent requests and responses. 
+   Typical Session: 
+   Client TCP connection
+   Client sents request > wait for response
+   Server processes the request > send response back to client with data
+
    ```
 
-2. What are the required information for a HTTP Request ot be sent?
+2. What are the required information for a HTTP Request to be sent?
 
    ```
    Examples:
    1. URL - the address of the information to be requested
-   2. // Please write your answer here.
-   3. // Please write your answer here.
-   4. // Please write your answer here.
+   2. HTTP method - the verb that describes the action to be performed
+   3. HTTP version - defines structure of remaining message
+   4. request target - absolute path of the protocol, port & domain. 
    ```
 
 3. Describe the expected actions to be performed by the following HTTP Verbs:
 
    ```
-   POST: // Write your answer here
-   GET: // Write your answer here
-   PUT: // Write your answer here
-   DELETE: // Write your answer here
+   POST: // sends data to the server
+   GET: // requests a representation of the specified resource
+   PUT: // creates a new resource or replaces a representation of the target resource with the request payload
+   DELETE: // deletes resource from server
    ```
 
 ---
